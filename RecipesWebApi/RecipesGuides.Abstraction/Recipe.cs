@@ -19,7 +19,10 @@ namespace RecipesGuides.Abstraction
              public string Ingredients
     { get; set; }
         
-            public string Authors
+          public string Authors
+    { get; set; }
+        
+           public string AddOns
     { get; set; }
     }
 }

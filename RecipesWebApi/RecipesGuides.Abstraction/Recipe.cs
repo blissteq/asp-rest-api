@@ -21,5 +21,7 @@ namespace RecipesGuides.Abstraction
         
             public string Authors
     { get; set; }
+           public string Status
+    { get; set; }
     }
 }

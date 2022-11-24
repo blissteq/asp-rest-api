@@ -15,5 +15,8 @@ namespace RecipesGuides.Abstraction
         
              public int Duration
     { get; set; }
+        
+             public string Ingredients
+    { get; set; }
     }
 }

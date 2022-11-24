@@ -9,5 +9,11 @@ namespace RecipesGuides.Abstraction
         
           public string Description
     { get; set; }
+        
+             public string Steps
+    { get; set; }
+        
+             public int Duration
+    { get; set; }
     }
 }

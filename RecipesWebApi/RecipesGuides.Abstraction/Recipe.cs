@@ -18,5 +18,8 @@ namespace RecipesGuides.Abstraction
         
              public string Ingredients
     { get; set; }
+        
+            public string Authors
+    { get; set; }
     }
 }

@@ -2,7 +2,7 @@
 
 namespace RecipesGuides.Core
 {
-    public class Class1
+    public class RecipeServices
     {
     }
 }

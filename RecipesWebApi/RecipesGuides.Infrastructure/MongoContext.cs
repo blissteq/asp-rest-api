@@ -2,7 +2,7 @@
 
 namespace RecipesGuides.Infrastructure
 {
-    public class Class1
+    public class MongoContext
     {
     }
 }
